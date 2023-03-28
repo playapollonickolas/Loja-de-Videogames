@@ -1,0 +1,7 @@
+C:\Users\apoll\source\repos\LojaDeVideogames\LojaDeVideogames\bin\Debug\LojaDeVideogames.exe.config
+C:\Users\apoll\source\repos\LojaDeVideogames\LojaDeVideogames\bin\Debug\LojaDeVideogames.exe
+C:\Users\apoll\source\repos\LojaDeVideogames\LojaDeVideogames\bin\Debug\LojaDeVideogames.pdb
+C:\Users\apoll\source\repos\LojaDeVideogames\LojaDeVideogames\obj\Debug\LojaDeVideogames.csprojAssemblyReference.cache
+C:\Users\apoll\source\repos\LojaDeVideogames\LojaDeVideogames\obj\Debug\LojaDeVideogames.csproj.CoreCompileInputs.cache
+C:\Users\apoll\source\repos\LojaDeVideogames\LojaDeVideogames\obj\Debug\LojaDeVideogames.exe
+C:\Users\apoll\source\repos\LojaDeVideogames\LojaDeVideogames\obj\Debug\LojaDeVideogames.pdb
